@@ -1,5 +1,6 @@
 # AW Preguntas
-```1. estructura mínima de una web:
+```
+1. estructura mínima de una web:
 
 <!DOCTYPE html>
 <html>
