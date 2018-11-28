@@ -1,5 +1,5 @@
 # AW Preguntas
-1. estructura mínima de una web:
+```1. estructura mínima de una web:
 
 <!DOCTYPE html>
 <html>
@@ -64,4 +64,4 @@ p > a { color: red; }
 h1 + h2 { color: red } Los titulos con h1 y h2 apareceran en color rojo
 a[class] { color: blue; }    Los enlaces que tengan un class tendran las letras de color azul. 
 a[class="externo"] { color: blue; } Los enlaces que tengan un class="externo" tendran la letra de color azul.
-a[href="http://www.ejemplo.com"] { color: blue; } Indica que ese enlaze aparecera de color azul
+a[href="http://www.ejemplo.com"] { color: blue; } Indica que ese enlaze aparecera de color azul```
